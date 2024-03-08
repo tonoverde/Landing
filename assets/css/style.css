@@ -45,7 +45,7 @@ p {
 /* Button */
 
 .button_di-buffala {
-  background-color: #325DFF;
+  background-color: #d98026;
   border-radius: 30px;
   padding: 2rem 6rem;
   color: #fff;
@@ -55,14 +55,15 @@ p {
 
 .button_di-buffala:hover {
   background-color: hsla(227, 100%, 60%, .1);
-  color: #325DFF;
+  color: #d98026;
 }
 
 /* Navbar */
 
 .navbar_di-buffala {
-  background-color: #325DFF;
+  background-color: #d98026;
   color: hsla(0, 100%, 100%, 0.52);
+  border-radius: 0%;
 }
 .icon-bar {
   background-color: #fff;
@@ -171,6 +172,7 @@ p {
 .features {
   text-align: center;
   padding: 4rem 10vw 10rem 10vw;
+  background-color: #8db8bb;
 }
 
 .features h2 {
@@ -182,10 +184,11 @@ p {
 }
 
 .features__inner{
-  border: 1px solid hsla(0, 0%, 0%, .1);
+  border: 2px solid #d98026;
   border-radius: 3px;
   padding: 5rem 0rem;
   margin: 3rem 1rem;
+  background-color: #fff;
 }
 
 .features__inner h3 {
@@ -197,7 +200,7 @@ p {
 }
 
 .features__inner-icon {
-  background-color: #325DFF;
+  background-color: #d98026;
   border-radius: 50%;
   width: 100px;
   height: 100px;
@@ -378,7 +381,7 @@ p {
 
 
 .footer_di-buffala {
-  background-color: #325DFF;
+  background-color: #d98026;
   padding: 5vw 1rem;
   text-align: center;
 }
